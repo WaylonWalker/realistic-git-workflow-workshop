@@ -1,4 +1,4 @@
-# Realistic Git Workflow
+﻿# Realistic Git Workflow
 
 _sometimes things get messy_
 
@@ -7,6 +7,7 @@ This repository is based on a [blog post]( https://waylonwalker.com/blog/realist
 ## Attendees
 
 Mark Sheehan
+kenneth Idoko
 
 ## The Clean Path
 
