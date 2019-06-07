@@ -15,7 +15,7 @@ This repository is based on a [blog post]( https://waylonwalker.com/blog/realist
 
 **pull 👉 branch 👉 format 👉 work👉 add 👉 commit 👉 pull 👉 rebase 👉 push**
 
-<iframe src='./clean' height=400 width=800 frameborder=None, >
+![clean workflow](./clean.png)
 
 ### Pull
 
