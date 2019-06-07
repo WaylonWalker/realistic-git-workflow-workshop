@@ -8,6 +8,8 @@ This repository is based on a [blog post]( https://waylonwalker.com/blog/realist
 
 * Mark Sheehan
 * Kenneth Idoko
+Waylon Walker
+
 
 ## The Clean Path
 
