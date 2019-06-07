@@ -6,8 +6,8 @@ This repository is based on a [blog post]( https://waylonwalker.com/blog/realist
 
 ## Attendees
 
-kenneth Idoko
-
+* Mark Sheehan
+* Kenneth Idoko
 
 ## The Clean Path
 
