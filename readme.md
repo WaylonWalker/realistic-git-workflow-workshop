@@ -6,8 +6,7 @@ This repository is based on a [blog post]( https://waylonwalker.com/blog/realist
 
 ## Attendees
 
-
-
+Mark Sheehan
 
 ## The Clean Path
 
